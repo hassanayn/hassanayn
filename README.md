@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @hassanayn kashmal
+### 👋 Hi, I’m @hassanayn kashmal  
 I'm a passionate software developer with a focus on full-stack development. I enjoy tackling complex challenges and continuously learning new technologies to improve my skill set.
 
 ### 👀 Interests  
@@ -24,8 +24,23 @@ I’m looking to collaborate on projects that involve **web development**, **fro
 - Email: [hassa9kashmal@gmail.com](mailto:hassa9kashmal@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/hassanayn-kashmal-86a0402a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
   
-
 ### 😄 Pronouns: He/Him  
 
 ### ⚡ Fun Fact  
 In my free time, I enjoy experimenting with new technologies, contributing to open-source projects, and solving algorithmic challenges.
+
+---
+
+### GitHub Stats & Profile Summary
+
+![Hassanayn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassanayn&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+#### Top Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanayn&layout=compact&theme=radical)
+
+#### GitHub Streak:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassanayn&theme=radical)
+
+You can find your GitHub stats and language stats generated dynamically with these badges. Replace `hassanayn` with your username if needed.
+
+---
