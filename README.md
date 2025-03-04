@@ -41,6 +41,9 @@ In my free time, I enjoy experimenting with new technologies, contributing to op
 #### GitHub Streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassanayn&theme=radical)
 
-You can find your GitHub stats and language stats generated dynamically with these badges. Replace `hassanayn` with your username if needed.
+### 👀 Profile Views
+![Profile views](https://komarev.com/ghpvc/?username=hassanayn&color=brightgreen)
+
+You can find your GitHub stats, top languages, and streak updated dynamically with these badges. Replace `hassanayn` with your username if needed.
 
 ---
