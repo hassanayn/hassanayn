@@ -38,12 +38,10 @@ In my free time, I enjoy experimenting with new technologies, contributing to op
 #### Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanayn&layout=compact&theme=radical)
 
-#### GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassanayn&theme=radical)
+
 
 ### 👀 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=hassanayn&color=brightgreen)
 
-You can find your GitHub stats, top languages, and streak updated dynamically with these badges. Replace `hassanayn` with your username if needed.
 
 ---
