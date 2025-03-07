@@ -29,19 +29,7 @@ I’m looking to collaborate on projects that involve **web development**, **fro
 ### ⚡ Fun Fact  
 In my free time, I enjoy experimenting with new technologies, contributing to open-source projects, and solving algorithmic challenges.
 
----
 
-### GitHub Stats & Profile Summary
-
-![Hassanayn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassanayn&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-#### Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanayn&layout=compact&theme=radical)
-
-
-
-### 👀 Profile Views
-![Profile views](https://komarev.com/ghpvc/?username=hassanayn&color=brightgreen)
 
 
 ---
