@@ -20,7 +20,8 @@ I am actively learning **React** to deepen my front-end development expertise an
 I’m looking to collaborate on projects that involve **web development**, **front-end design**, and **backend services**. Feel free to reach out if you're working on something exciting or need assistance with a project!
 
 ### 📫 How to Reach Me  
-- GitHub: [hassanayn](https://github.com/hassanayn)  
+- GitHub: [hassanayn](https://github.com/hassanayn)
+- Web
 - Email: [hassa9kashmal@gmail.com](mailto:hassa9kashmal@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/hassanayn-kashmal-86a0402a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
   
