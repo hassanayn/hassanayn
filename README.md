@@ -17,7 +17,7 @@ I am actively learning **React** to deepen my front-end development expertise an
  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)   ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)   ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
 ### 🤝 Collaboration  
-I’m looking to collaborate on projects that involve **web development**, **front-end design**, and **backend services**. Feel free to reach out if you're working on something exciting or need assistance with a project!
+I’m looking to collaborate on projects that involve **web development**, **front-end design**, and **backend services**. Feel free to reach out if you're working on something exciting or need assistance with a project!.
 
 ### 📫 How to Reach Me  
 - GitHub: [hassanayn](https://github.com/hassanayn)
