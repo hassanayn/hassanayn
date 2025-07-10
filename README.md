@@ -23,7 +23,7 @@ I’m looking to collaborate on projects that involve **web development**, **fro
 - GitHub: [hassanayn](https://github.com/hassanayn)
 - Email: [hassa9kashmal@gmail.com](mailto:hassa9kashmal@gmail.com)
 - Web: https://hassa9kashmal.vercel.app
-- LinkedIn: [https://www.linkedin.com/in/hassan-maliki-86a0402a2]
+- LinkedIn: https://www.linkedin.com/in/hassan-maliki-86a0402a2
   
 ### 😄 Pronouns: He/Him  
 
