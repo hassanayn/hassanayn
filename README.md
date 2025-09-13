@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @hassan kashmal   
+### 👋 Hi, I’m Hassan Kashmal   
 I'm a passionate software developer with a focus on full-stack development. I enjoy tackling complex challenges and continuously learning new technologies to improve my skill set.
 
 ### 👀 Interests  
