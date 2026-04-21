@@ -5,13 +5,13 @@ I'm a passionate software developer with a focus on full-stack development. I en
 I’m particularly interested in **web development**, **software architecture**, and building scalable applications. I am always exploring new ways to enhance the user experience through clean, efficient, and maintainable code.
 
 ### 🌱 Currently Learning  
-I am actively learning **React** to deepen my front-end development expertise and build more dynamic and responsive web applications.
+I am actively learning **React**, **Kotlin**, **Flutter**, and **React Native** to deepen my front-end and mobile development expertise and build more dynamic and responsive applications.
 
 ### 💻 Languages  
- ![C](https://img.shields.io/badge/C-007396?style=for-the-badge&logo=c&logoColor=white)   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Php](https://img.shields.io/badge/Php-007396?style=for-the-badge&logo=Php&logoColor=white)
+ ![C](https://img.shields.io/badge/C-007396?style=for-the-badge&logo=c&logoColor=white)   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Php](https://img.shields.io/badge/Php-007396?style=for-the-badge&logo=Php&logoColor=white)
 
 ### ⚙️ Frameworks & Technologies  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) *(currently learning)*  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![React%20Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) *(currently learning)*  
 
 
 ### 🛠️ Tools & Skills  
@@ -33,4 +33,3 @@ In my free time, I enjoy experimenting with new technologies, contributing to op
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=hassanayn)
-
